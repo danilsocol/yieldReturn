@@ -1,0 +1,16 @@
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\yieldReturn.exe
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\yieldReturn.deps.json
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\yieldReturn.runtimeconfig.json
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\yieldReturn.runtimeconfig.dev.json
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\yieldReturn.dll
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\ref\yieldReturn.dll
+C:\Приложения\Проекты\yieldReturn\yieldReturn\bin\Debug\net5.0\yieldReturn.pdb
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.csproj.AssemblyReference.cache
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.AssemblyInfoInputs.cache
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.AssemblyInfo.cs
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.csproj.CoreCompileInputs.cache
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.dll
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\ref\yieldReturn.dll
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.pdb
+C:\Приложения\Проекты\yieldReturn\yieldReturn\obj\Debug\net5.0\yieldReturn.genruntimeconfig.cache
